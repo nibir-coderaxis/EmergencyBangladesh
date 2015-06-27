@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a3606c9ee4b714455c796eb1ba57490330e5eb32.jar" />
+    </item>
+    <item
+        jar="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-91af05076d31d14f85e3272466d476f86d91bc8f.jar" />
+    </item>
+    <item
+        jar="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\pre-dexed\debug\classes-406b39705edb56a01c4f3f2c5986cbd0b025e180.jar" />
+    </item>
+    <item
+        jar="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\Academic\Codes\Netbeans\Android Projects\EmergencyBangladesh\app\build\intermediates\pre-dexed\debug\classes-9d979f576ca29561b1ec0fd4c711d700c85c2807.jar" />
+    </item>
+
+</items>
